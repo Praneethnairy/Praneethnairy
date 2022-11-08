@@ -43,7 +43,7 @@
 
 
 
-<a href="linkedin.com/in/praneeth-p-nairy-474071202"><img align="left" src="https://raw.githubusercontent.com/Praneethnairy/Praneeth-nairy-Landing-Page/main/images/linkedin.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="https://www.instagram.com/praneeth_nairy/"><img align="left" src="https://raw.githubusercontent.com/Praneethnairy/Praneeth-nairy-Landing-Page/main/images/instagram.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="https://twitter.com/nairy_praneeth"><img align="left" src="https://raw.githubusercontent.com/Praneethnairy/Praneeth-nairy-Landing-Page/main/images/twitter.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> 
+<a href="linkedin.com/in/praneeth-p-nairy-474071202"><img align="left" src="https://https://github.com/Praneethnairy/Praneethnairy/tree/main/images/linkedin.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="https://www.instagram.com/praneeth_nairy/"><img align="left" src="https://https://github.com/Praneethnairy/Praneethnairy/tree/main/images/instagram.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="https://twitter.com/nairy_praneeth"><img align="left" src="https://https://github.com/Praneethnairy/Praneethnairy/tree/main/images/twitter.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> 
 
 <br/>
 <br/>
